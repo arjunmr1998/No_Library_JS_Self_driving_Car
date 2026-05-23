@@ -8,7 +8,7 @@ The project demonstrates how autonomous driving behavior can emerge through a si
 
 The simulation trains multiple cars in parallel and continuously evolves the neural network weights and biases. Over successive generations, the best-performing vehicle learns how to navigate traffic while avoiding collisions.
 
-
+<img src="Single_car_autonomus.gif" width="500">
 ---
 
 ## Features
